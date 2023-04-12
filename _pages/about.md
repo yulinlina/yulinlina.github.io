@@ -14,11 +14,7 @@ Sept.2020 – Jun. 2024
 **College of Aritficial Intelligence, SiChuan University,SiChuan,China**  
 **GPA:3.87/4.0**  
 **contact:** wanghaolin@stu.su.edu.cn or wanghao.lin@outlook.com  
-# Research Interest:
-* Autopilot AI
-* Natural Language Processing 
-* Robot Data Fusion 
-* Cognitive Science
+
 # Project Experience
 **Robot Vision Experience** Python,ROS2,Nav2,YOLO,OpenCV July 2022 - Present
 * Designed a robot vision system that can recognize and manipulate objects using Python and OpenCV
@@ -55,16 +51,16 @@ Knowledge Base | Description | Tags
 | [Learning and Research](https://www.yuque.com/yulinlin-rf5a0/lw76fg) | Paper writing, work record diary weekly report, monthly schedule | Paper reading Working record Efficiency Research Instruction |  
  ---
 
-## Awards
+# Awards
 - 2022 China Robotics and Artificial Intelligence Innovation Competition National Award
 - 2022 First prize in Mathematics Competition of Sichuan University
 - 2022 Undergraduate innovation and entrepreneurship training program provincial award
 - 2022 Excellent Student of Sichuan University
 - 2021 First prize in Mathematics Competition of Sichuan University
 - 2021 Comprehensive secondary school scholarships
-## Catch me:
+# Catch me:
 [**Github**](https://github.com/yulinlina) |  [**Bilibili**](https://space.bilibili.com/281105430?spm_id_from=333.1007.0.0) | [**Personal Blog**](https://yulinlin.cloud/)
-## Opinion:
+# Opinion:
 We choose this project is not simply because **we can do it**  
 but**it really matters to the community** and**to the people who will use and benefit from the results**
 
