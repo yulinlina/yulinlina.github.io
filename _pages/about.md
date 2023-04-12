@@ -19,7 +19,32 @@ Sept.2020 – Jun. 2024
 * Natural Language Processing 
 * Robot Data Fusion 
 * Cognitive Science
-## Technology Stack 
+# Project Experience
+**Robot Vision Experience** Python,ROS2,Nav2,YOLO,OpenCV July 2022 - Present
+* Designed a robot vision system that can recognize and manipulate objects using Python and OpenCV
+* Implemented a convolutional neural network for object detection and classification
+Integrated the vision system with a robotic arm for object dectection and manipulation
+
+**Deep Learning frame design Experience** Numpy,Sklearn Sept. 2022 -Dec. 2022
+Designed a deep learning framework that can be used to train and test deep learning models from scratch
+* Designed a DL framework using numpy to implement the backpropagation of convolution layer and linear layer as a course project
+* Implemented the basic operations of tensors using numpy, such as addition, multiplication, transpose and reshape
+* Implemented the convolution layer and linear layer using numpy, and defined their forward and backward methods
+* Implemented the backpropagation algorithm using numpy, and calculated the gradients of the parameters and inputs
+# Research Experience
+
+**Medical Image Analysis Research Experience** September 2022 - Present    
+* Conducted research on deep learning applications in medical image analysis under the supervision of Professor  LiTuan Wang   
+* Participated in several research projects, such as brain tumor segmentation, lung nodule detection and breast cancer classification  
+
+**Molecular Analysis Experience** June 2021 - August 2022  
+* Collaborated with  West China Hospital on a project using deep learning to predict the activity of molecule for drug discovery  
+* Used nerual network to encode the molecular structure and output a score for the activity
+Trained and tested the model on a large dataset of molecules and their activities 
+Achieved a high accuracy and precision in predicting the activity of molecule  
+
+
+# Technical Skills Stack
  Knowledge Base | Description | Tags | 
 | --- | --- | --- |
 [Artificial Intelligence](https://www.yuque.com/yulinlin-rf5a0/gf7bov) | Artificial intelligence knowledge, computer vision, natural language processing, robot-related algorithms and practice | Softmax regression Convolutional neural network Recurrent neural network Attention mechanism Object detection Language model Chinese word segmentation KNN Kmeans Bayes SVM Logistic regression Decision tree BP Hebb HTM Bagging K Fold cross validation Confusion Matrix Pytorch Sklearn Cuda ROS2 Nav2 |     
