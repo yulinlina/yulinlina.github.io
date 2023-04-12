@@ -10,7 +10,7 @@ redirect_from:
 
 ## Hello,World! This is Haolin Wang! 🌟
 ## Education
-Sept.2020 – Jun. 2024
+Sept.2020 – Jun. 2024   
 **College of Aritficial Intelligence, SiChuan University,SiChuan,China**  
 **GPA:3.87/4.0**  
 **contact:** wanghaolin@stu.su.edu.cn or wanghao.lin@outlook.com  
