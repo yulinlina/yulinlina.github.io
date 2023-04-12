@@ -12,10 +12,13 @@ redirect_from:
 ## Education
 Sept.2020 – Jun. 2024
 **College of Aritficial Intelligence, SiChuan University,SiChuan,China**  
-GPA:3.87/4.0  
+**GPA:3.87/4.0**  
 **contact:** wanghaolin@stu.su.edu.cn or wanghao.lin@outlook.com  
 # Research Interest:
-Autopilot AI Natural Language Processing Robot Data Fusion Cognitive Science
+* Autopilot AI
+* Natural Language Processing 
+* Robot Data Fusion 
+* Cognitive Science
 ## Technology Stack 
  Knowledge Base | Description | Tags | 
 | --- | --- | --- |
