@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello world ! This is Haolin Wang"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
